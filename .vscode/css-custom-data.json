@@ -1,0 +1,45 @@
+{
+  "version": "1.1",
+  "atDirectives": [
+    {
+      "name": "@apply",
+      "description": "Use @apply to inline any existing utility classes into your own custom CSS.",
+      "references": [
+        {
+          "name": "Tailwind CSS Documentation",
+          "url": "https://tailwindcss.com/docs/functions-and-directives#apply"
+        }
+      ]
+    },
+    {
+      "name": "@custom-variant",
+      "description": "Define custom variants.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Documentation",
+          "url": "https://tailwindcss.com/docs/v4-beta#custom-variants"
+        }
+      ]
+    },
+    {
+      "name": "@theme",
+      "description": "Define theme values.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Documentation",
+          "url": "https://tailwindcss.com/docs/v4-beta#theme"
+        }
+      ]
+    },
+    {
+      "name": "@utility",
+      "description": "Define custom utilities.",
+      "references": [
+        {
+          "name": "Tailwind CSS v4 Documentation",
+          "url": "https://tailwindcss.com/docs/v4-beta#utilities"
+        }
+      ]
+    }
+  ]
+}
